@@ -71,6 +71,7 @@ Decompositions
    qr - QR decomposition of a matrix
    qr_multiply - QR decomposition and multiplication by Q
    qz - QZ decomposition of a pair of matrices
+   ordqz - QZ decomposition of a pair of matrices with reordering
    schur - Schur decomposition of a matrix
    rsf2csf - Real to complex Schur form
    hessenberg - Hessenberg form of a matrix
